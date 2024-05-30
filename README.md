@@ -1,6 +1,7 @@
 # expense_tracker
 
-Keep Track of your expense and save some bucks.
+This is the flutter app which is used for 
+Keeping Track of your expense by adding them on the app and save some bucks.
 
 ## Getting Started
 
